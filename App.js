@@ -1,4 +1,11 @@
+import styles from './App.css';
 
+export default function (props) {
+
+  return <h1 className={styles.header}>Hello world!</h1>;
+
+};
+/*
 var App = React.createClass({
    return {
       <div>
@@ -8,3 +15,4 @@ var App = React.createClass({
 });
 
 module.exports = App;
+*/
