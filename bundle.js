@@ -400,8 +400,7 @@
 /* 5 */
 /***/ function(module, exports) {
 
-	module.exports = "It works from content.js. 4";
-
+	
 
 /***/ }
 /******/ ]);
