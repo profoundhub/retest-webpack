@@ -15,9 +15,19 @@
   "bugs": {
     "url": "https://github.com/profoundhub/retest-webpack/issues"
   },
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
     "css-loader": "^0.25.0",
-    "style-loader": "^0.13.1"
+    "style-loader": "^0.13.1",
+    "react" : "^0.14.7",
+    "react-dom" : "^0.14.7"
   }
 }
