@@ -64,8 +64,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../node_modules/css-loader/index.js!./style.css", function() {
-				var newContent = require("!!./../../../node_modules/css-loader/index.js!./style.css");
+			module.hot.accept("!!./node_modules/css-loader/index.js!./style.css", function() {
+				var newContent = require("!!./node_modules/css-loader/index.js!./style.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -400,7 +400,7 @@
 /* 5 */
 /***/ function(module, exports) {
 
-	module.exports = "It works from content.js. 3";
+	module.exports = "It works from content.js. 4";
 
 
 /***/ }
