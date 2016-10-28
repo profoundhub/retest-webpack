@@ -20,9 +20,10 @@
     "browserify": "*",
     "flux": "*",
     "gulp": "*",
+    "object-assign": "*",
     "reactify": "*",
     "vinyl-source-stream": "*",
-    "object-assign": "*"
+    "yarn": "^0.16.1"
   },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
