@@ -23,13 +23,13 @@
     "object-assign": "*",
     "reactify": "*",
     "vinyl-source-stream": "*",
-    "yarn": "^0.16.1"
+    "yarn": "^0.17.8"
   },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
-    "css-loader": "^0.25.0",
+    "css-loader": "^0.26.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-transform": "0.0.3",
