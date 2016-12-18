@@ -23,7 +23,7 @@
     "object-assign": "*",
     "reactify": "*",
     "vinyl-source-stream": "*",
-    "yarn": "^0.17.8"
+    "yarn": "^0.18.1"
   },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
