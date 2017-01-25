@@ -24,7 +24,7 @@
     "package-version-checker": "0.0.6",
     "reactify": "*",
     "vinyl-source-stream": "*",
-    "yarn": "^0.18.1"
+    "yarn": "^0.19.1"
   },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
