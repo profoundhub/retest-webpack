@@ -21,6 +21,7 @@
     "flux": "*",
     "gulp": "*",
     "object-assign": "*",
+    "package-version-checker": "0.0.6",
     "reactify": "*",
     "vinyl-source-stream": "*",
     "yarn": "^0.18.1"
