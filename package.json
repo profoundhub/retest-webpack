@@ -21,21 +21,21 @@
     "flux": "*",
     "gulp": "*",
     "object-assign": "*",
-    "package-version-checker": "0.0.6",
+    "package-version-checker": "0.0.8",
     "reactify": "*",
     "vinyl-source-stream": "*",
-    "yarn": "^0.19.1"
+    "yarn": "^1.3.2"
   },
   "homepage": "https://github.com/profoundhub/retest-webpack#readme",
   "dependencies": {
     "babel-core": "^6.14.0",
-    "babel-loader": "^6.2.5",
-    "css-loader": "^0.26.0",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "react-transform": "0.0.3",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.13.2",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.9.1",
     "webpack-dev-middleware": "^1.6.1",
     "webpack-hot-middleware": "^2.12.2"
   }
